@@ -1,0 +1,38 @@
+_repo: Cicero-Catilinarian-OrationsCicero-Speeches-against-Catilina_39355
+_version: 0.1.0
+alternative_title: Catilinarian Orations
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cicero, Marcus Tullius
+    birthdate: -106
+    deathdate: -43
+    gutenberg_agent_id: '128'
+    url: http://www.gutenberg.org/2009/agents/128
+    wikipedia: http://en.wikipedia.org/wiki/Cicero
+  editor:
+    agent_name: Upcott, Ernest Alfred
+    alias: Upcott, E. A.
+    gutenberg_agent_id: '39949'
+    url: http://www.gutenberg.org/2009/agents/39949
+description: ''
+gutenberg_issued: '2012-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39355'
+language:
+- en
+- la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Rome -- History -- Conspiracy of Catiline, 65-62 B.C.'
+- !lcsh 'Latin language -- Readers'
+- !lcsh 'Speeches, addresses, etc., Latin'
+- !lcsh 'Catiline, approximately 108 B.C.-62 B.C.'
+title: Speeches against Catilina
+url: http://www.gutenberg.org/ebooks/39355
